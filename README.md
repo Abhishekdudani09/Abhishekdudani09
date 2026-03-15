@@ -1,10 +1,11 @@
-
 <h1 align="center">Hi, I'm Abhishek Dudani 👋</h1>
 <h3 align="center">Java Developer · MCA Graduate · Bengaluru, India</h3>
 
 <p align="center">
   <a href="mailto:abhishekdudani09@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhishekdudani09-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/abhishek-c-dudani"></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/abhishek-c-dudani"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=abhishekdudani&label=Profile+views&color=0e75b6&style=flat"/>
 </p>
 
@@ -12,11 +13,14 @@
 
 ### About me
 
-I build secure, scalable backend web applications using **Java**, **Servlets**, **JSP**, **JDBC**, and **MySQL** — structured around clean **MVC architecture**. I'm passionate about SQL optimisation, transaction integrity, and writing maintainable enterprise-grade code.
+I build secure, scalable backend web applications using **Java**, **Servlets**, **JSP**, **JDBC**, and **MySQL** — structured around clean **MVC architecture**. Passionate about SQL optimisation, transaction integrity, and writing maintainable enterprise-grade code.
 
 - 🎓 MCA from Sharnbasva University (2024)
+- 🔐 Experienced with BCrypt auth, session management & SQL injection prevention
+- 🏦 Built a full enterprise banking app with atomic JDBC transactions and a complete DAO layer
 - 📍 Based in Bengaluru, Karnataka
-- 📬 Open to Java Developer opportunities
+- 📬 Open to Java Developer opportunities — abhishekdudani09@gmail.com
+
 ---
 
 ### Tech stack
@@ -38,6 +42,7 @@ I build secure, scalable backend web applications using **Java**, **Servlets**, 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Tools & Platforms**
@@ -50,7 +55,3 @@ I build secure, scalable backend web applications using **Java**, **Servlets**, 
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
 ---
-
-
-
-
