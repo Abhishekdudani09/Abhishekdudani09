@@ -51,19 +51,6 @@ I build secure, scalable backend web applications using **Java**, **Servlets**, 
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekdudani&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekdudani&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
-<p align="center">
-  <i>Open to Java Developer roles — feel free to reach out!</i><br/>
-  <a href="mailto:abhishekdudani09@gmail.com">abhishekdudani09@gmail.com</a>
-</p>
 
 
 
