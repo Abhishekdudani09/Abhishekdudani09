@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="mailto:abhishekdudani09@gmail.com"><img src="https://img.shields.io/badge/Gmail-abhishekdudani09-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abhishek-c-dudani">
+<a href="https://linkedin.com/in/abhishek-c-dudani"></a>
   <img src="https://komarev.com/ghpvc/?username=abhishekdudani&label=Profile+views&color=0e75b6&style=flat"/>
 </p>
 
