@@ -16,8 +16,6 @@
 I build secure, scalable backend web applications using **Java**, **Servlets**, **JSP**, **JDBC**, and **MySQL** — structured around clean **MVC architecture**. Passionate about SQL optimisation, transaction integrity, and writing maintainable enterprise-grade code.
 
 - 🎓 MCA from Sharnbasva University (2024)
-- 🔐 Experienced with BCrypt auth, session management & SQL injection prevention
-- 🏦 Built a full enterprise banking app with atomic JDBC transactions and a complete DAO layer
 - 📍 Based in Bengaluru, Karnataka
 - 📬 Open to Java Developer opportunities — abhishekdudani09@gmail.com
 
